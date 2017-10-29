@@ -26,3 +26,6 @@ type:
 type:  
 
 `geometry_msgs::Vector3`
+
+
+The motivation of this project is that I met a problem [force dimension haptic device SDK incompatible with moveit](https://github.com/jacknlliu/moveit_unit_test/issues/1).
